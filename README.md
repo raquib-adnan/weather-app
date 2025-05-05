@@ -2,6 +2,12 @@
 
 A simple weather application built with Python and Tkinter that displays weather information for any city using the weatherstack API.
 
+## 🖼️ Screenshot
+
+### Main Screen
+
+![Main Screen](main.png)
+
 ## Features
 
 - Enter any city name to get current weather information
